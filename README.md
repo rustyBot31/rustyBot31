@@ -35,7 +35,7 @@ A React Native + Expo app for logging meals, tracking calories, and getting AI-g
 ## 🛠️ Tech Stack
 
 - **Backend**: Java, Spring Boot, REST APIs  
-- **Frontend**: React, TypeScript, Tailwind CSS  
+- **Frontend**: React, TypeScript, Tailwind CSS , JavaScript 
 - **Mobile**: React Native (Expo)  
 - **Tools & Platforms**: Firebase, GitHub Actions, MongoDB
 
