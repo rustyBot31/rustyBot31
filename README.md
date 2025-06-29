@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I%E2%80%99m+Swastik+—+a.k.a.+rustyBot31"
-    alt="Typing SVG"
-  />
-</p>
-
 # 👋 Hey there, I’m Swastik — a.k.a. `rustyBot31`
 
 💻 Full‑stack Web & Mobile Developer  
