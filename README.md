@@ -48,7 +48,7 @@ React Native + Expo mobile app to log meals, track calories & get AI tips.
 
 ## 🎉 Fun Fact
 
-**"rustyBot31"** was meant to sound like a forgotten droid from a sci-fi film—but it turns out this bot ships clean code, modern UIs, and knows Spring Boot better than most humans 🚀🤖
+**"rustyBot31"** was meant to sound like a forgotten droid from a sci-fi film—but it turns out this bot ships clean code and modern UIs
 
 ---
 
