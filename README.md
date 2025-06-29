@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Swastik+(rustyBot31)!" alt="Typing SVG" />
+</p>
+
 # 👋 Hey there, I’m Swastik (rustyBot31)
 
 Full‑stack Web & Mobile Dev | Java • Spring Boot • React • React Native  
@@ -5,6 +9,11 @@ Full‑stack Web & Mobile Dev | Java • Spring Boot • React • React Native
 Jadavpur Univeristy
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rustyBot31&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
 
 ## 🚀 Pinned Projects
 
@@ -18,6 +27,12 @@ React Native + Expo mobile app to log meals, track calories & get AI tips.
 🔄 Regular work on UI refinement, calorie logic, and backend tuning.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rustyBot31&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rustyBot31&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustyBot31&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ## 📊 GitHub Activity
 
