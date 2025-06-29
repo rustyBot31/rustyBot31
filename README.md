@@ -1,6 +1,6 @@
 
 
-# 👋 Hey there, I’m Swastik (rustyBot31)
+# 👋 Hey there, I’m Swastik a.k.a rustyBot31
 
 Full‑stack Web & Mobile Dev | Java • Spring Boot • React • React Native  
 📍 Kolkata, West Bengal, India
