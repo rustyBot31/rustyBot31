@@ -1,59 +1,61 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I’m+Swastik+—+a.k.a.+rustyBot31" alt="Typing SVG" />
+</p>
 
+# 👋 Hey there, I’m Swastik — a.k.a. `rustyBot31`
 
-# 👋 Hey there, I’m Swastik a.k.a rustyBot31
+💻 Full‑stack Web & Mobile Developer  
+🌐 Java • Spring Boot • React • React Native  
+📍 Kolkata, West Bengal, India • 🎓 Jadavpur University  
 
-Full‑stack Web & Mobile Dev | Java • Spring Boot • React • React Native  
-📍 Kolkata, West Bengal, India
-Jadavpur Univeristy
+I love building products that solve real problems — especially if they're fun, fast, or a bit futuristic.
 
 ---
 
-
-
-## 🚀 Pinned Projects
+## 🚀 Featured Projects
 
 ### 🔹 **ReplAI**
-AI‑powered email reply generator with tone customization.  
-Built with JavaScript, integrating Gemini-style models.  
-💡 Frequent contributions: UX improvements, integration logic, cleanup commits.
+An AI‑powered email reply generator with tone customization.  
+⚙️ Built using JavaScript, with Gemini-style model integration.  
+💡 Regular contributions: UX upgrades, core logic improvements, cleanup commits.
 
 ### 🔹 **Calorie‑Compass**
-React Native + Expo mobile app to log meals, track calories & get AI tips.  
-🔄 Regular work on UI refinement, calorie logic, and backend tuning.
+A React Native + Expo app for logging meals, tracking calories, and getting AI-generated tips.  
+📱 Focused work on: intuitive UI, backend tuning, and smart calorie logic.
 
 ---
 
 ## 📊 GitHub Activity
 
-| Metric | Details |
-|--------|---------|
+| 🧠 Area | 💬 Highlights |
+|--------|---------------|
 | 🧑‍💻 Active Stack | Spring Boot, React, React Native |
-| 💾 Pinned Repos | `ReplAI`, `Calorie-Compass` |
-| ⏱️ Commits | Consistently shipping across projects |
-| 🌍 Contributions | Full-stack feature builds, AI logic, and modular backend APIs |
+| 📌 Key Projects | `ReplAI`, `Calorie‑Compass` |
+| 🔁 Commit Habits | Consistent, purposeful, test‑driven |
+| 🌍 Contribution Style | Full-stack features, modular APIs, AI integrations |
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Java, Spring Boot, RESTful APIs  
-- **Frontend (Web)**: React, TypeScript, Tailwind, JavaScript  
-- **Mobile**: React Native + Expo  
-- **Tooling**: GitHub Actions, Firebase, MongoDB
+- **Backend**: Java, Spring Boot, REST APIs  
+- **Frontend**: React, TypeScript, Tailwind CSS  
+- **Mobile**: React Native (Expo)  
+- **Tools & Platforms**: Firebase, GitHub Actions, MongoDB
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-- [GitHub](https://github.com/rustyBot31)
-- [LinkedIn](https://www.linkedin.com/in/swastik-bose/)
+- 🌐 [GitHub](https://github.com/rustyBot31)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/swastik-bose/)
 
 ---
 
 ## 🎉 Fun Fact
 
-**"rustyBot31"** was meant to sound like a forgotten droid from a sci-fi film—but it turns out this bot ships clean code and modern UIs
+Despite the name, **"rustyBot31"** isn’t some forgotten droid from a galaxy far away — it’s just me, shipping clean code and sharp UIs at human speed. 🤖✨
 
 ---
 
-*Thanks for stopping by—check out my pinned work or drop me a DM to collaborate!*
+_Thanks for dropping by — feel free to explore my pinned projects or reach out for collabs!_
