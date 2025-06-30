@@ -20,17 +20,6 @@ A React Native + Expo app for logging meals, tracking calories, and getting AI-g
 
 ---
 
-## 📊 GitHub Activity
-
-| 🧠 Area | 💬 Highlights |
-|--------|---------------|
-| 🧑‍💻 Active Stack | Spring Boot, React, React Native |
-| 📌 Key Projects | `ReplAI`, `Calorie‑Compass` |
-| 🔁 Commit Habits | Consistent, purposeful, test‑driven |
-| 🌍 Contribution Style | Full-stack features, modular APIs, AI integrations |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Backend**: Java, Spring Boot, REST APIs  
