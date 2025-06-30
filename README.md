@@ -12,8 +12,7 @@ I love building products that solve real problems — especially if they're fun,
 
 ### 🔹 **ReplAI**
 An AI‑powered email reply generator with tone customization.  
-⚙️ Built using JavaScript, with Gemini-style model integration.  
-💡 Regular contributions: UX upgrades, core logic improvements, cleanup commits.
+⚙️ Built using JavaScript, with Gemini-style model integration. 
 
 ### 🔹 **Calorie‑Compass**
 A React Native + Expo app for logging meals, tracking calories, and getting AI-generated tips.  
