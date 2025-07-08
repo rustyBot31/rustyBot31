@@ -12,7 +12,7 @@ I love building products that solve real problems — especially if they're fun,
 
 ### 🔹 **ReplAI**
 An AI‑powered email reply generator with tone customization.  
-⚙️ Built using JavaScript, with Gemini-style model integration. 
+⚙️ Built using JavaScript, with Gemini-style model integration. <br>
 Project - https://github.com/rustyBot31/ReplAI
 
 ### 🔹 **Calorie‑Compass**
