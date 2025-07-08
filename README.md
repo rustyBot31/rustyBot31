@@ -17,7 +17,7 @@ Project - https://github.com/rustyBot31/ReplAI
 
 ### 🔹 **Calorie‑Compass**
 A React Native + Expo app for logging meals, tracking calories, and getting AI-generated tips.  
-📱 Focused work on: intuitive UI, backend tuning, and smart calorie logic.
+📱 Focused work on: intuitive UI, backend tuning, and smart calorie logic. <br>
 Project - https://github.com/rustyBot31/Calorie-Compass
 
 ---
