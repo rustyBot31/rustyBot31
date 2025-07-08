@@ -2,7 +2,8 @@
 
 💻 Full‑stack Web & Mobile Developer  
 🌐 Java • Spring Boot • React • React Native  
-📍 Kolkata, West Bengal, India • 🎓 Jadavpur University  
+📍 Kolkata, West Bengal, India <br>
+🎓 Jadavpur University  
 
 I love building products that solve real problems — especially if they're fun, fast, or a bit futuristic.
 
