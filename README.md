@@ -13,10 +13,12 @@ I love building products that solve real problems — especially if they're fun,
 ### 🔹 **ReplAI**
 An AI‑powered email reply generator with tone customization.  
 ⚙️ Built using JavaScript, with Gemini-style model integration. 
+Project - https://github.com/rustyBot31/ReplAI
 
 ### 🔹 **Calorie‑Compass**
 A React Native + Expo app for logging meals, tracking calories, and getting AI-generated tips.  
 📱 Focused work on: intuitive UI, backend tuning, and smart calorie logic.
+Project - https://github.com/rustyBot31/Calorie-Compass
 
 ---
 
