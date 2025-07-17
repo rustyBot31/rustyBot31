@@ -34,7 +34,6 @@ Project - https://github.com/rustyBot31/Calorie-Compass
 
 ## 📫 Let's Connect
 
-- 🌐 [GitHub](https://github.com/rustyBot31)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/swastik-bose/)
 
 ---
