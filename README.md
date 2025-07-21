@@ -25,7 +25,7 @@ Project - https://github.com/rustyBot31/Calorie-Compass
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Java, Spring Boot, REST APIs  
+- **Backend**: Spring Boot, ExpressJS  
 - **Frontend**: React, TypeScript, JavaScript 
 - **Mobile**: React Native (Expo)  
 - **Tools & Platforms**: Firebase, GitHub Actions, MongoDB
